@@ -1,21 +1,21 @@
 # Get-and-Clean-Course-Project
----
-title: "Codebook"
-author: "josstj"
-date: "5/5/18"
-output:
-  html_document:
-    keep_md: yes
----
+----
+title: Codebook
+
+author: josstj
+
+date: 5/5/18
+
+----
 
 ## Project Description
 The run_analysis.R script creates a tidy data set from the the Human Activity Recognition Using Smartphones Data Set, which is available at this link:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
-##Study design and data processing
+## Study design and data processing
 
-###Collection of the raw data
+### Collection of the raw data
 
 (The following text is directly from the website link above)
 
